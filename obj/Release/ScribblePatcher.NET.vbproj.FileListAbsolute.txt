@@ -1,0 +1,10 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Release\ScribblePatcher.NET.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Release\ScribblePatcher.NET.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Release\ScribblePatcher.NET.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Release\ScribblePatcher.NET.xml
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Release\ScribblePatcher.NET.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Release\ScribblePatcher.NET.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Release\ScribblePatcher.NET.vbproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Release\ScribblePatcher.NET.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Release\ScribblePatcher.NET.xml
+C:\Users\user1\Documents\Visual Studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Release\ScribblePatcher.NET.pdb

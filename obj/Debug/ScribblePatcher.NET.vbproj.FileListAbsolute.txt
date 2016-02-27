@@ -1,1 +1,11 @@
 c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Debug\ScribblePatcher.NET.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Debug\ScribblePatcher.NET.exe
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Debug\ScribblePatcher.NET.pdb
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\bin\Debug\ScribblePatcher.NET.xml
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Debug\ScribblePatcher.NET.vbprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Debug\ScribblePatcher.NET.Form1.resources
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Debug\ScribblePatcher.NET.Resources.resources
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Debug\ScribblePatcher.NET.vbproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Debug\ScribblePatcher.NET.exe
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Debug\ScribblePatcher.NET.xml
+c:\users\user1\documents\visual studio 2015\Projects\ScribblePatcher.NET\ScribblePatcher.NET\obj\Debug\ScribblePatcher.NET.pdb
